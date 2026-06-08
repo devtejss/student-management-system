@@ -44,20 +44,6 @@ Feature| Description
 
 ---
 
-📁 Project Structure
-
-student-management-system/
-src/
-   main.c
-   student.c
-include/
-   student.h
-data/
-Makefile
-README.md
-
----
-
 ▶️ Getting Started
 
 git clone https://github.com/devtejss/student-management-system.git
