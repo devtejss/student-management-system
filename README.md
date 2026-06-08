@@ -49,11 +49,10 @@ Feature| Description
 student-management-system/
 ├── src/
 │   ├── main.c
-│   └── student.c
+│   ├── student.c
 ├── include/
-│   └── student.h
+│   ├── student.h
 ├── data/
-│   └── students.dat
 ├── Makefile
 └── README.md
 
