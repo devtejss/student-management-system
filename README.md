@@ -17,8 +17,8 @@
 ```bash
 make
 ./app
-
-## 📁 Project Structure
+=======
+## 📁 Project Structure 
 
 student-management-system/
 ├── src/
@@ -30,7 +30,10 @@ student-management-system/
 ├── Makefile
 └── README.md
 
+=======
+
 📌 Description
  A simple command-line based Student Management System
  built in C that allows users to manage student
  records using file handling.
+=======
